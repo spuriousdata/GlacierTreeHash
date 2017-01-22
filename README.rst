@@ -2,7 +2,8 @@
 Glacier Tree Hash
 ====
 
-Usage:
+Usage:::
+
  ./treehash.py \'71.mp4
  Calculated: 0d4902d32750a09c7d7df5619d8685d0883f8ab2ae90cd47c01cbe394f75ab1e
  
